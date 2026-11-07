@@ -1,4 +1,4 @@
-# PC-1350 Emulator
+# PC-1350 Emulator for MacOS
 
 SHARP のポケットコンピュータ PC-1350 の、macOS 用エミュレータです。
 
