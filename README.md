@@ -4,6 +4,8 @@ SHARP のポケットコンピュータ PC-1350 の、macOS 用エミュレー�
 
 > SHARP とは関係のない、個人のプロジェクトです。
 
+![PC1350エミュレータScreenShot](images/pc1350-runmode_image.png)
+
 ## 動作環境
 
 - macOS 12 以降
